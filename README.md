@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="public/brand/librix-icon.png" alt="Librix app icon" width="112" />
+  <img src="Logo-librix.png" alt="Librix app icon" width="112" />
   <h1>Librix</h1>
   <p><strong>A little more room for the stories you love.</strong></p>
   <p>Your books, your reading progress, and your next chapter—in one calm, personal library.</p>
